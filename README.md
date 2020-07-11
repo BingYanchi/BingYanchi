@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am an individual developer and participate in some projects of [@yistars](https://github.com/yistars).
 
-🔭 I’m currently working on ...
+🔭 **I’m currently working on ...**
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
 
-📫 How to reach me: ...
+📫 **How to reach me: ...**
 * Twitter: [@Bing_Yanchi](https://twitter.com/Bing_Yanchi)
 * Email: Bing_Yanchi@outlook.com
 <!--
