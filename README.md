@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an individual developer and participate in some projects of [@yistars](https://github.com/yistars).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi)](https://github.com/BingYanchi)
 
 🔭 **I’m currently working on ...**
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
