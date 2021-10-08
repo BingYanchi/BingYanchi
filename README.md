@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am an individual developer and participate in some projects of [@yistars](https://github.com/yistars).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi&show_icons=true&locale=cn)](https://github.com/BingYanchi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi&show_icons=true&locale=cn&include_all_commits=true)](https://github.com/BingYanchi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact&locale=cn)](https://github.com/BingYanchi)
 
