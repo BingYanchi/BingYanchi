@@ -3,7 +3,7 @@ I am an individual developer and participate in some projects of [@yistars](http
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi&show_icons=true&custom_title=BingYanchi&nbsp;的&nbsp;Github&nbsp;统计)](https://github.com/BingYanchi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact)](https://github.com/BingYanchi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact&custom_title=使用最多的语言)](https://github.com/BingYanchi)
 
 🔭 **I’m currently working on ...**
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
