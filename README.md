@@ -6,6 +6,10 @@ I am an individual developer and participate in some projects of [@yistars](http
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact&locale=cn)](https://github.com/BingYanchi)
 
 🔭 **I’m currently working on ...**
+
+[![Light App Engine](https://github-readme-stats.vercel.app/api/pin/?username=loliart-lae&repo=lae)](https://github.com/loliart-lae/lae)
+[![ArkManager](https://github-readme-stats.vercel.app/api/pin/?username=yistars&repo=ArkManager)](https://github.com/yistars/ArkManager)
+
 * [**Loliart-Lae**](https://github.com/loliart-lae): Light App Engine
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
 
