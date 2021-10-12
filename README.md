@@ -6,7 +6,7 @@ I am an individual developer and participate in some projects of [@yistars](http
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact&locale=cn)](https://github.com/BingYanchi)
 
 🔭 **I’m currently working on ...**
-* [**Loliart-lae**](https://github.com/loliart-lae): Light App Engine
+* [**Loliart-Lae**](https://github.com/loliart-lae): Light App Engine
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
 
 📫 **How to reach me ...**
