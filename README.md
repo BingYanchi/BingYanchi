@@ -7,9 +7,11 @@ I am an individual developer and participate in some projects of [@yistars](http
 
 🔭 **I’m currently working on ...**
 
+[![BingLocalNetChat](https://github-readme-stats.vercel.app/api/pin/?username=BingYanchi&repo=BingLocalNetChat&locale=cn&show_owner=true)](https://github.com/BingYanchi/BingLocalNetChat)
 [![Light App Engine](https://github-readme-stats.vercel.app/api/pin/?username=loliart-lae&repo=lae&locale=cn&show_owner=true)](https://github.com/loliart-lae/lae)
 [![ArkManager](https://github-readme-stats.vercel.app/api/pin/?username=yistars&repo=ArkManager&locale=cn&show_owner=true)](https://github.com/yistars/ArkManager)
 
+* [**BingLocalNetChat**](https://github.com/BingYanchi/BingLocalNetChat): Bing's LocalNet Chat Client
 * [**Loliart-Lae**](https://github.com/loliart-lae): Light App Engine
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
 
