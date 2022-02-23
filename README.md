@@ -1,11 +1,11 @@
-### Hi there 👋
-I am an individual developer and participate in some projects of [@yistars](https://github.com/yistars) and [@Light App Engine](https://github.com/loliart-lae).
+### 嘿，你好 👋
+我是一名个人开发者，曾经参与 [@yistars](https://github.com/yistars) 和 [@Light App Engine](https://github.com/loliart-lae) 项目的开发。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/BingYanchi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact&locale=cn)](https://github.com/BingYanchi)
 
-🔭 **I’m currently working on ...**
+🔭 **我目前正在研究 ...**
 
 [![BingLocalNetChat](https://github-readme-stats.vercel.app/api/pin/?username=BingYanchi&repo=BingLocalNetChat&locale=cn&show_owner=true)](https://github.com/BingYanchi/BingLocalNetChat)
 [![Light App Engine](https://github-readme-stats.vercel.app/api/pin/?username=loliart-lae&repo=lae&locale=cn&show_owner=true)](https://github.com/loliart-lae/lae)
