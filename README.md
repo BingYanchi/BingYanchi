@@ -2,7 +2,7 @@
 我是一名个人开发者，曾经参与 [@yistars](https://github.com/yistars) 和 [@Light App Engine](https://github.com/loliart-lae) 项目的开发。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/BingYanchi)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BingYanchi&layout=compact&locale=cn)](https://github.com/BingYanchi)
 
 🔭 **我目前正在研究 ...**
@@ -15,7 +15,7 @@
 * [**BingLocalNetChat**](https://github.com/BingYanchi/BingLocalNetChat): Bing's LocalNet Chat Client
 * [**Loliart-Lae**](https://github.com/loliart-lae): Light App Engine
 * [**ArkManager**](https://github.com/yistars/ArkManager): Ark server web management panel
-
+-->
 📫 **How to reach me ...**
 * Twitter: [@Bing_Yanchi](https://twitter.com/Bing_Yanchi)
 * Email: Bing_Yanchi@outlook.com
