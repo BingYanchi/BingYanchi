@@ -1,5 +1,5 @@
 ### 嘿，你好 👋
-我是一名个人开发者，目前正在 [@Bing's Plugins](https://github.com/Bing-Plugins) 参与开发工作。
+我是一名个人开发者。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BingYanchi&show_icons=true&locale=cn&include_all_commits=true&count_private=true)](https://github.com/BingYanchi)
 <!--
